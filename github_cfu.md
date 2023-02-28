@@ -1,0 +1,7 @@
+- git init : initilizes git to start tracking
+- git add : add changes to git, stages ready to commit
+- git commit : publish that staged change to the git
+- git status : check status 
+- git diff : explain the changes made to the code
+- git log : history of all commits
+- git add . : add all fies to directory
